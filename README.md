@@ -2,6 +2,8 @@
 
 A sleek, responsive, dark-mode personal developer portfolio built with modern vanilla HTML, CSS, and JavaScript.
 
+🌐 **Live Site:** [https://aryanatul2008-ship-it.github.io/Portfolio/](https://aryanatul2008-ship-it.github.io/Portfolio/)
+
 ---
 
 ## 📌 Overview
