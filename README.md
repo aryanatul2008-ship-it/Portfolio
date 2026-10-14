@@ -49,7 +49,7 @@ No installation or build steps required:
    ```
    *(Or simply open `index.html` directly in your browser)*
 
-3. **Visit:** Open [http://localhost:8000](http://localhost:8000)
+3. **Visit:** Open [https://aryanatul2008-ship-it.github.io/Portfolio/](https://aryanatul2008-ship-it.github.io/Portfolio/)
 
 ## 📂 Project Structure
 
